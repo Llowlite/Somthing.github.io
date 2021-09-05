@@ -1,0 +1,33 @@
+img {
+	height: 400px;
+	width: 300px;
+	margin: 50px;
+	filter: blur(2px);
+	filter: grayscale(30%);
+}
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 200px 100px 0 100px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 10rem;
+	border-bottom: 3px solid white;
+	/*text-decoration: underline;*/
+	background-color: dimgray;
+	width: 300px;
+	padding: 50px 100px 60px 100px;
+	border-radius: 0 100px 0 100px;
+}
+p {
+	font-style: italic;
+	font-size: xx-large;
+	background-color: lightslategray;
+	margin: 0 100px 50 100px;
+	padding: 50px;
+	border-radius: 50px;
+	text-decoration: underline;
+}
